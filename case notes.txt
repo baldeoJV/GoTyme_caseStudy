@@ -30,6 +30,7 @@ EXPLORATORY DATA ANALYSIS
             1289 has 999 despite having previous campaign records 
 
         prev_campaign_call_attempts
+            
         
         employment_variation_rate_q
         consumer_price_index_m
@@ -40,3 +41,8 @@ EXPLORATORY DATA ANALYSIS
 
     categorical variables 
         sdfa
+
+    NOTE TO SELF : DOING THIS MANUALLY IS PRETTY USELESS 
+        SEE " INFOMATION VALUE " INSTEAD
+
+
