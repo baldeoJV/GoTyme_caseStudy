@@ -1,4 +1,4 @@
-# GoTyme Case Study: Cold-Call Response Model
+ Cold-Call Response Model
 
 An end-to-end, independently built model to predict whether a customer will take up a sales offer on a cold call, plus a campaign profit overlay. The goal is to give a client's new data science team a second opinion on their own model and approach.
 
